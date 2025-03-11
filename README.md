@@ -1,5 +1,5 @@
 # Proyecto asistente personalizado (Munin Task) 
-Link: [Link a este design doc](#)
+Link: 
 
 Author(s): Lobsang Leonardo Armenta Fuentes y Jose Gamino Cruz
 
@@ -20,8 +20,6 @@ Ultima actualización: 2025-03-10
 
 
 ## Links
-- [Un link](#)
-- [Otro link](#)
 
 ## Objetivo
 El desarollar una  aplicación de asistencia personalizada para un uso multiple, le proposito seria el que cada usuario ajustara su uso dependiendo de lo requiere, en caso de recordar un evento, reunion, citas o algo tan sencillo como un el control del consumo de un 
