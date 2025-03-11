@@ -1,4 +1,4 @@
-# Proyecto asistente personalizado (Munin Task) 
+# Proyecto de asistente para recordatorios 
 Link: 
 
 Author(s): Lobsang Leonardo Armenta Fuentes y Jose Gamino Cruz
